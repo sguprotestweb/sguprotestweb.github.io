@@ -1,0 +1,11 @@
+/* POPULAR-PRODUCTS
+.block-pp-products{padding:10px;margin-top:30px;-webkit-box-shadow:1px 1px 25px -7px rgba(0,0,0,.3);box-shadow:1px 1px 25px -7px rgba(0,0,0,.3);border-radius:2px;background-color:white}.block-pp-image{height:190px;background-color:#4758a5}.block-pp-title{font-size:18px;margin-top:15px}.block-pp-price{font-size:22px;font-weight:bold;margin-top:15px}.block-pp-nalich{color:green;margin-top:15px}.block-pp-products a{display:block;width:100%;padding:8px 0;text-transform:uppercase;color:white;font-weight:bold;border-radius:2px;background-color:#4758a5;text-align:center;margin-top:15px}
+
+ FOOTER 
+footer{background-color:#1f2c3f;padding:4rem 0;margin-top:30px}footer .row>div{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex}footer a,footer p{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;color:white;padding-top:10px}footer .row>div:nth-child(2){-webkit-justify-content:space-around;-ms-flex-pack:distribute;justify-content:space-around}footer .row>div:nth-child(3){-webkit-box-pack:end;-webkit-justify-content:flex-end;-ms-flex-pack:end;justify-content:flex-end}footer .row>div:nth-child(3) a{font-size:24px;margin-left:10px}
+
+/* MEDIA QUERY 
+@media screen and (max-width:768px){#section-catalogs .row>div:nth-child(2){margin-top:30px}footer .row>div:nth-child(1){-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;margin-bottom:30px}}@media screen and (max-width:992px){#popular-products .row{display:-webkit-box;display:-webkit-flex;display:-ms-flexbox;display:flex;-webkit-box-orient:horizontal;-webkit-box-direction:normal;-webkit-flex-direction:row;-ms-flex-direction:row;flex-direction:row;-webkit-flex-wrap:wrap;-ms-flex-wrap:wrap;flex-wrap:wrap;-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;margin:0 auto}#section-catalogs{margin-top:0}#section-catalogs .row>div:nth-child(3){margin-top:30px}footer .row>div:nth-child(3){-webkit-box-pack:center;-webkit-justify-content:center;-ms-flex-pack:center;justify-content:center;width:100%;margin-top:30px}}
+
+*/
+
